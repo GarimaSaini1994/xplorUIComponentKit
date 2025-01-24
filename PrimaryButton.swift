@@ -10,8 +10,9 @@ import Foundation
 public struct PrimaryButton: View {
     let title: String
     let action: () -> Void
+    public init() {}
     
-    var body: some View {
+    public var body: some View {
         Button(action: {
             action()
         })
