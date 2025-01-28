@@ -1,6 +1,6 @@
 //
-//  ExampleApp.swift
-//  Example
+//  ExampleUIKitApp.swift
+//  ExampleUIKit
 //
 //  Created by Garima Saini on 28/01/25.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct ExampleApp: App {
+struct ExampleUIKitApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

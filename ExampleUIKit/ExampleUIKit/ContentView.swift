@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Example
+//  ExampleUIKit
 //
 //  Created by Garima Saini on 28/01/25.
 //
