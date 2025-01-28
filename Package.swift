@@ -20,7 +20,7 @@ let package = Package(
         .target(
             name: "xplorUIComponentKit",
             path: "Sources",
-            exclude: ["../ExampleUIKit"]
+            exclude: ["./ExampleUIKit"]
         ),
         
         .testTarget(
